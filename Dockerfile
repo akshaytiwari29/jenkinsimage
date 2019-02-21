@@ -8,7 +8,7 @@
 # As used on blog describing continuous delivery Jenkins, Docker and Spring Boot
 # http://eggsylife.co.uk/2015/12/29/spring-boot-jenkins-and-docker-part-one/
 
-FROM jenkins:1.625.3
+FROM jenkins:latest
 MAINTAINER James Heggs jimbobegg@hotmail.com
 
 # Install Jenkins Plugins
